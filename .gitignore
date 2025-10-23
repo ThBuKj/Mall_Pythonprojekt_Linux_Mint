@@ -1,0 +1,16 @@
+# Ignorera den virtuella miljön
+venv/
+
+# Ignorera Pythons kompilerade filer
+__pycache__/
+*.pyc
+
+# Ignorera VS Code-mappen för lokala inställningar
+.vscode/
+
+# Ignorera filer som skapas av operativsystemet
+.DS_Store
+
+# Ignorera eventuella hemligheter/konfigurationsfiler
+*.env
+.env
