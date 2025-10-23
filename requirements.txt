@@ -1,0 +1,5 @@
+# Lista över Python-paket som används i projektet
+# Installera med: pip install -r requirements.txt
+
+mypy==1.12.0
+# requests==2.32.3  # Exempel på ytterligare paket
